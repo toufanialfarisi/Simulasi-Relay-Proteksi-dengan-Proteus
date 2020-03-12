@@ -1,1 +1,1 @@
-# Simulasi-Relay-Proteksi-dengan-Proteus
+# Simulasi Relay Proteksi dengan Proteus
